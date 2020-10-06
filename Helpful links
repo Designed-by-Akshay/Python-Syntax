@@ -1,1 +1,36 @@
 https://pymotw.com/3/
+
+Our favourite modules
+The Python Standard Library has a lot of modules! To help you get familiar with what's available, here are a selection of our favourite Python Standard Library modules and why we use them!
+
+csv: very convenient for reading and writing csv files
+# https://docs.python.org/3/library/csv.html
+
+collections: useful extensions of the usual data types including OrderedDict, defaultdict and namedtuple
+# https://docs.python.org/3/library/collections.html
+
+random: generates pseudo-random numbers, shuffles sequences randomly and chooses random items
+# https://docs.python.org/3/library/random.html
+
+string: more functions on strings. This module also contains useful collections of letters like string.digits (a string containing all characters which are valid digits).
+# https://docs.python.org/3/library/string.html
+
+re: pattern-matching in strings via regular expressions
+# https://docs.python.org/3/library/re.html
+
+math: some standard mathematical functions
+# https://docs.python.org/3/library/math.html
+
+os: interacting with operating systems
+# https://docs.python.org/3/library/os.html 
+
+os.path: submodule of os for manipulating path names
+# https://docs.python.org/3/library/os.path.html
+
+sys: work directly with the Python interpreter 
+# https://docs.python.org/3/library/sys.html
+
+json: good for reading and writing json files (good for web work)
+# https://docs.python.org/3/library/json.html
+
+
