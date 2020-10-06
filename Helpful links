@@ -1,6 +1,10 @@
 # https://docs.python.org/3/library/
 # https://pymotw.com/3/
 
+Modules which help to find how long the program took to run
+# https://docs.python.org/3/library/timeit.html
+# https://docs.python.org/3/library/profile.html
+
 Our favourite modules
 The Python Standard Library has a lot of modules! To help you get familiar with what's available, here are a selection of our favourite Python Standard Library modules and why we use them!
 
