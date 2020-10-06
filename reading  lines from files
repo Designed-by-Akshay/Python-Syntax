@@ -1,3 +1,11 @@
+Concepts coveres
+---------------
+for line in f
+line.strip()
+f.readline()
+
+----------------------------------------
+
 Overview
 ----------------
 camelot_lines = []
